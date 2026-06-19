@@ -485,36 +485,6 @@ The purpose of these samples is to demonstrate engineering approach, architectur
 
 ---
 
-## Suggested GitHub Repository Description
-
-```text
-Web3 crypto portfolio dashboard case study built with Next.js, TypeScript, Redux Toolkit, Material UI, Wagmi, Viem, RainbowKit, portfolio charts, wallet bundles, sharing privacy, and responsive dashboard UI.
-```
-
-## Suggested GitHub Topics
-
-```text
-nextjs
-react
-typescript
-web3
-wagmi
-viem
-rainbowkit
-redux-toolkit
-material-ui
-crypto-dashboard
-portfolio-tracker
-data-visualization
-recharts
-plotly
-wallet-connect
-case-study
-proof-of-work
-```
-
----
-
 ## Contact
 
 **Muhammad Shiraz**
