@@ -1,5 +1,7 @@
 # Folionomics — Crypto Portfolio Management Dashboard Case Study
 
+![Folionomics — Web3 Portfolio Analytics Case Study](./screenshots/folionomics-cover.png)
+
 A public proof-of-work case study for a responsive Web3 portfolio dashboard built with **Next.js, React, TypeScript, Redux Toolkit, Material UI, Wagmi, Viem, RainbowKit, Solana Web3.js, and data visualization components**.
 
 This case study demonstrates how a modern Web3 frontend can connect wallet authentication, multi-address portfolio management, wallet bundles, assets, protocols, NFTs, transactions, historical value charts, public discovery, and privacy-controlled share links.
